@@ -7,7 +7,7 @@ spring:
 
   datasource:
     platform: mysql
-    url:  jdbc:mysql://yeonsu-db.cgcx74rg0lxo.ap-northeast-2.rds.amazonaws.com:3306/yeonsu-db
+    url: jdbc:mysql://yeonsu-db.cgcx74rg0lxo.ap-northeast-2.rds.amazonaws.com:3306/yeonsuDB
     username: yeonsu
     password: zxzx0811
     driver-class-name: com.mysql.cj.jdbc.Driver # mysql 8버전
